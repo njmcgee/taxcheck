@@ -1,0 +1,159 @@
+/* -------------------------------------------------------------- 
+   
+Taxchek Website
+CSS by Nathan McGinness
+   
+-------------------------------------------------------------- */
+
+body {
+background: #271818;
+color: #fff;
+font-family: Georgia, Palatino, Times New Roman, serif;
+}
+
+h1 {
+background: url(../img/h1.gif) center no-repeat;
+text-align: center;
+display:block;
+text-indent: -2000px;
+
+}
+
+h1 a {
+text-align: center;
+display: block;
+height: 92px;
+width: 417px;
+margin-left:300px;
+outline:none;
+}
+
+p.intro {
+background: url(../img/intro.gif) center no-repeat;
+display: block;
+height: 54px;
+text-indent: -2000px;
+margin-top: 12px;
+}
+
+p.home {
+
+text-align: center;
+font-size: 1.7em;
+font-weight: bold;
+margin-top: 40px;
+}
+
+form {
+text-align: center;
+
+}
+
+label span {
+font-size: 2.6em;
+color: #dbbb30;
+}
+
+input {
+font-size: 1.7em;
+margin-left: 3px;
+font-family: georgia, serif;
+}
+
+table {
+border: none;
+}
+
+th {
+background: #bf9f1c;
+border: none;
+font-size: 1.9em;
+padding: 12px 9px 12px 16px;
+line-height: 1.1em;
+border-bottom: 1px #271818 solid;
+/*border-right: 1px #641f35 solid;*/
+}
+
+tr#totals th {
+	border-right: none;
+}
+
+tr#top th {
+	border: none;
+}
+
+td {
+border: none;
+font-size: 1.3em;
+padding: 6px 6px 6px 26px;
+border-right: 1px #5f4e4c solid;
+}
+
+tr.minor td {
+padding: 6px 6px 6px 37px;
+font-size:1.1em;
+}
+
+td.br {
+border-right: #f0e3ad 1px solid;
+}
+
+tr#top th {
+background: transparent;
+font-size: .8em;
+text-transform: uppercase;
+letter-spacing: .15em;
+padding-left: 0;
+padding-bottom: 2px;
+}
+
+tr#totals th {
+background: #eaeaf6;
+color: #000;
+
+}
+
+tr#totals th.empty {
+/*background: #30303b;*/	
+}
+
+p.or {
+	text-align: center;
+	color: #dbbb30;
+	font-size: 4em;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+.other {
+	font-size: 1.4em;
+	line-height: 1.5em;
+	
+}
+
+
+
+p {
+	text-align: left;
+}
+
+.fine-print {
+	padding-top: 1.5em;
+	color: #fff;
+}
+
+a {
+	color: #cfcfe3;
+}
+
+a:hover {
+	color: #fff;
+}
+
+h2 {
+	color: #dbba2f;
+}
+
+th.wide{
+
+}

@@ -1,0 +1,258 @@
+============================================
+Log Created: 2010-07-13T17:32:06-07:00
+============================================
+Symphony Log
+Build: 375
+--------------------------------------------
+10:32:34 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:32:34 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:32:34 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:32:34 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:32:35 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:45:57 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:45:57 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:45:58 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:45:58 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:45:58 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:52:35 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:52:35 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:52:36 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:52:36 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:52:36 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:58:52 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:58:52 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+10:58:53 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:58:53 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+10:58:53 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:05:28 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+11:05:28 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+11:05:29 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:05:29 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:05:29 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:57:54 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+11:57:54 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+11:57:55 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:57:55 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+11:57:56 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:35 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:30:35 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:30:37 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:37 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:37 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:47 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:30:47 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:30:47 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:47 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:30:48 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:34:16 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:34:16 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:34:17 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:34:17 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:34:17 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:03 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:36:03 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:36:03 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:03 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:04 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:08 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:36:08 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+13:36:08 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:08 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+13:36:08 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+14:09:31 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+14:09:31 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+14:09:32 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+14:09:32 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+14:09:32 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+15:19:14 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+15:19:14 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+15:19:19 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+15:19:19 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+15:19:20 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:47:10 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+17:47:10 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+17:47:11 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:47:11 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:47:11 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:53:52 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+17:53:52 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+17:54:00 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:54:00 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+17:54:00 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:00:38 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+19:00:38 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+19:00:40 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:00:40 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:00:40 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:42:13 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+19:42:13 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+19:42:13 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:42:13 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+19:42:14 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+21:51:53 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+21:51:53 > WARNING: 2 - array_key_exists() [function.array-key-exists]: The second argument should be either an array or an object in file /home/taxcheck/taxcheck.com.au/extensions/dynamic_event_redirect/extension.driver.php on line 133
+21:51:54 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+21:51:54 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
+21:51:54 > WARNING: 512 - MySQL Error (1064): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND f.id IN ('59') LIMIT 1' at line 4 in query "SELECT f.`id` AS `field_id`
+				FROM `sym_fields` AS `f` 
+				LEFT JOIN `sym_sections` AS `s` ON f.parent_section = s.id
+				WHERE `s`.id =  AND f.id IN ('59') LIMIT 1" in file /home/taxcheck/taxcheck.com.au/symphony/lib/toolkit/class.mysql.php on line 400
